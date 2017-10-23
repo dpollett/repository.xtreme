@@ -32,7 +32,7 @@ addon_id     = xbmcaddon.Addon().getAddonInfo('id')
 home         = xbmc.translatePath('special://home') 
 
 
-main_xml     = 'https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/main.xml'
+main_xml     = 'https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/main.xml'
 
 @route(mode='start')
 def Start():
