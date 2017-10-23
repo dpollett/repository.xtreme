@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.tempusmovies" name="Tempus Movies" version="1.0.1" provider-name="ad">
+<addon id="plugin.video.xtremevideos" name="Xtreme Videos" version="1.0.0" provider-name="ad">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />
@@ -10,8 +10,8 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Seasonal Movies</summary>
-		<description lang="en">Movies for each season. The developer does not own any of the content within this addon. The developer is in no way, shape, or form affiliated or associated with XBMC or Kodi.</description>
+		<summary lang="en">Xtreme Videos</summary>
+		<description lang="en">Xtreme outdoor and sports videos. The developer does not own any of the content within this addon. The developer is in no way, shape, or form affiliated or associated with XBMC or Kodi.</description>
 		<platform>all</platform>
 		<forum>http://www.noobsandnerds.com/support</forum>
 		<website>www.noobsandnerds.com</website>
