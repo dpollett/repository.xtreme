@@ -1,0 +1,56 @@
+<items>
+        <item>
+        <title>[B][COLORdarkorange]A Nightmare on Elm Street Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/freddy.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Chucky Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/chucky.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Friday the 13th Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/jason.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Ghostbusters Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/ghostbusters.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Halloween Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/myers.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Halloweentown Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/haltown.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Hammer Films[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/hammerfilms.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Poltergeist Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/polt.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]The Exorcist Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/exorcist.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+</items>        

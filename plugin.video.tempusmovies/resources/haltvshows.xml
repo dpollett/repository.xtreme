@@ -1,0 +1,26 @@
+<items>
+	<item>
+        <title>[B][COLORdarkorange]Sleepy Hollow[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/sleepyhollowtv.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/ibgtOccXy0O8siMDowlEA9uWhe8.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]The Simpsons Treehouse of Horror Episodes[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/simpsons.xml</link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/yTZQkSsxUFJZJe67IenRM0AEklc.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORwhite]##### RANDOM HALLOWEEN TV EPISODES #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Random TV Episodes[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/randomhaltv.xml</link>
+        <thumbnail>http://clipartix.com/wp-content/uploads/2017/04/Television-retro-tv-set-in-blue-with-on-screen-clip-art-at.png</thumbnail>
+        </item>
+
+</items>

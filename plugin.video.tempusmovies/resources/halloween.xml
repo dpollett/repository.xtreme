@@ -1,0 +1,38 @@
+<items>
+        <item>
+        <title>[B][COLORwhite]##### MOVIES #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Halloween Movies[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/halmovies.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Halloween Movie Series[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/halseries.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORpurple]Halloween Movies for Kids[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/kids.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORwhite]##### TV SHOWS #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORdarkorange]Halloween TV Shows[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/bentkatu/repository.atrain/master/plugin.video.tempusmovies/resources/haltvshows.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+</items>        
