@@ -1,7 +1,7 @@
 <items>
 	<item>
         <title>[COLORwhite]Xtreme Poles[/COLOR]</title>
-        <link>https://www.youtube.com/playlist?list=PLAztR2OLm6oSOCO9NpvMsrPQSzKMHS9r7</link>
+        <link>plugin://plugin.video.youtube/playlist/=PLAztR2OLm6oSOCO9NpvMsrPQSzKMHS9r7</link>
         <thumbnail>none</thumbnail>
         </item>
 
