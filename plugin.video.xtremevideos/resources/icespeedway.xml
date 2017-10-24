@@ -1,10 +1,12 @@
 <items>
-        <title>[B][COLORwhite]##### ICE SPEEDWAY#####[/COLOR][/B]</title>
+        <item>
+        <title>[B][COLORwhite]##### ICE SPEEDWAY #####[/COLOR][/B]</title>
         <link>none</link>
         <thumbnail>https://i.imgur.com/Y4Pb93Y.jpg</thumbnail>
         </item>
 
-        <title>[B][COLORwhite]Ice Speedway Video 1[/COLOR][/B]</title>
+        <item>
+        <title>[B][COLORgreen]Ice Speedway Video 1[/COLOR][/B]</title>
         <link>https://www.youtube.com/watch?v=DeMDcP8LN6k</link>
         <thumbnail>none</thumbnail>
         </item>
