@@ -1,4 +1,11 @@
 <items>
+        
+        <item>
+        <title>[B][COLORwhite]##### XTREME SPORTS #####[/COLOR][/B]</title>
+        <link>none</link>
+        <thumbnail>https://i.imgur.com/icYZr8j.png</thumbnail>
+        </item>
+
         <item>
         <title>[B][COLORgreen]Red Bull Signature Series[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/redbull.xml</link>
@@ -74,6 +81,12 @@
         <item>
         <title>[B][COLORgreen]Snowboarding[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/snowboarding.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORgreen]Snowmobile[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/snowmobile.xml</link>
         <thumbnail>none</thumbnail>
         </item>
 
