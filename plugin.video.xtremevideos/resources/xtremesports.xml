@@ -61,6 +61,12 @@
         </item>
 
         <item>
+        <title>[B][COLORgreen]Need for Speed[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/needforspeed.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
         <title>[B][COLORgreen]Power Boat[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/powerboat.xml</link>
         <thumbnail>none</thumbnail>
