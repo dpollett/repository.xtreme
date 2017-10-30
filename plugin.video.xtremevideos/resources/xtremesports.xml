@@ -36,6 +36,12 @@
         </item>
 
         <item>
+        <title>[B][COLORgreen]Free Running[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/freerunning.xml</link>
+        <thumbnail>none</thumbnail>
+        </item>
+
+        <item>
         <title>[B][COLORgreen]Ice Speedway[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/dpollett/repository.xtreme/master/plugin.video.xtremevideos/resources/icespeedway.xml</link>
         <thumbnail>none</thumbnail>
